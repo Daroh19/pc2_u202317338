@@ -1,4 +1,4 @@
-package acme.catchup.platform;
+package com.medisupply.platform.u202317338;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
